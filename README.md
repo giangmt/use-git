@@ -55,5 +55,5 @@ Successful bugfix and merge. To do is clean up, to delete a branch
 Last step. To push everything to remote repository, and done!\
 `git push`\
 Source: https://try.github.io \
-Learning more about Git: https://git-scm.com/docs, https://git-scm.com/book/en/v2, https://help.github.com/ \
+Learning more about Git: https://git-scm.com/docs, https://git-scm.com/book/en/v2, https://help.github.com/, https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf \
 Tutorial: https://backlog.com/git-tutorial/, https://www.atlassian.com/git/tutorials
